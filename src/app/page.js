@@ -2,6 +2,6 @@ import styles from './page.module.css'
 
 export default function Home() {
   return (
-    <h1>Pokenext</h1>
+    <h1>PokeNext</h1>
   )
 }
