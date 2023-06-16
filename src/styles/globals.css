@@ -1,0 +1,10 @@
+* {
+  font-family: Helvetica;
+  margin: 0;
+  padin: 0;
+  border-sizing: border-box;
+}
+
+.main-container {
+  min-height: 70vh;
+}
